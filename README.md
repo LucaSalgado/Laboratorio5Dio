@@ -19,4 +19,12 @@
 - Emseguida vamos criar uma logo com o seguinte comando:  Create a corporate logo for the cleaning company. The logo should be round and include an iconic New York landmark.
 ![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print5.png "Demonstração de uso do Microsoft Copilot")
 - Para não deixar o arquivo poluido, peço para que confira a pasta de "inputs" para poder conferir as logos criadas em maior resolução.
-- 
+
+## Usando o Copilot para criar uma apresentação
+- No Onedrive criaremos uma nova apresentação em powerpoint na mesma pasta que se encontra o nosso arquivo word
+- Coloque o nome da empresa escolhida no título e coloque o seguinte texto no subtitulo: "Investor Opportunity"
+- Crie um novo slide com o layout para dois conteúdos e coloque o seguinte título: Benefits of Hiring a Commercial Cleaner
+- Agora no Copilot coloque o seguinte comando: Write a summary of the benefits of using a corporate cleaning company for your business. The summary should consist of five short bullet points.
+![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print6.png "Demonstração de uso do Microsoft Copilot")
+- Em seguida entre com este comando:  Create a photorealistic image of a clean office.
+![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print7.png "Demonstração de uso do Microsoft Copilot")
