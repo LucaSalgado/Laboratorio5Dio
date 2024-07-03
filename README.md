@@ -15,4 +15,8 @@
 - Utilizemos o seguinte comando:  Suggest a name for my cleaning business
 ![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print3.png "Demonstração de uso do Microsoft Copilot")
 - Depois utilzemos esse comando: Write a business plan for "EcoClean Solutions" based on the information in this document. Include an executive summary, market overview, and financial projections.
-- ![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print4.png "Demonstração de uso do Microsoft Copilot")
+![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print4.png "Demonstração de uso do Microsoft Copilot")
+- Emseguida vamos criar uma logo com o seguinte comando:  Create a corporate logo for the cleaning company. The logo should be round and include an iconic New York landmark.
+![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print5.png "Demonstração de uso do Microsoft Copilot")
+- Para não deixar o arquivo poluido, peço para que confira a pasta de "inputs" para poder conferir as logos criadas em maior resolução.
+- 
