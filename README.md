@@ -28,3 +28,16 @@
 ![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print6.png "Demonstração de uso do Microsoft Copilot")
 - Em seguida entre com este comando:  Create a photorealistic image of a clean office.
 ![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print7.png "Demonstração de uso do Microsoft Copilot")
+- Mude o titulo do arquivo para: Business Presentation.pptx
+
+## Usar o Copilot para compor um email
+- Abra o Outlook
+- Crie um novo email e coloque seu proprio email como destinatário
+- Siga o seguinte comando no painel "Redação" do Copilot
+```
+Write about: Request a meeting with an investment bank to discuss funding for a commercial cleaning business.
+Tone: Professional
+Format: Email
+Length: Medium
+```
+![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print8.png "Demonstração de uso do Microsoft Copilot")
