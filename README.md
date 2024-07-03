@@ -13,3 +13,6 @@
 
 ## Usando o Copilot para criar conteúdo para um plano de negócios
 - Utilizemos o seguinte comando:  Suggest a name for my cleaning business
+![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print3.png "Demonstração de uso do Microsoft Copilot")
+- Depois utilzemos esse comando: Write a business plan for "EcoClean Solutions" based on the information in this document. Include an executive summary, market overview, and financial projections.
+- ![Print da tela do navegador Microsoft Edge com a demonstração de uso do Microsoft Copilot](./inputs/print4.png "Demonstração de uso do Microsoft Copilot")
